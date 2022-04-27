@@ -1,73 +1,45 @@
+# Bookstore
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+> Simple React Todo-list app for managing your daily todo's
 
-> Description the project.
+## LiveDemo
+[Todo List](https://have-samuel.github.io/react-tutorial/)
 
+## Setup
+
+### Clone this repository
+
+```bash
+$ git clone git@github.com:Sahar-AbdelSamad/bookstore.git
+$ cd bookstore
+```
+
+### Run project
+
+```bash
+$ npm install
+$ npm run start # this will make webpack watching for your changes in code
+```
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React
+- Webpack
+- JavaScript
+- CSS
 
-## Live Demo (if available)
+## Author
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Have-Samuel**
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://have-samuel.github.io/react-tutorial/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
