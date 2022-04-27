@@ -37,7 +37,6 @@ const Navbar = () => {
           <li key={link.id}>
             <NavLink
               to={link.path}
-              // activeClassName="active-link"
               className={({ isActive }) => (isActive ? 'active-link' : '')}
               onClick={() => closeMenu()}
             >

@@ -1,6 +1,5 @@
 import React from 'react';
 import { NavLink, Route, Routes } from 'react-router-dom';
-// import { Switch } from 'react-router-dom/cjs/react-router-dom.min';
 import SingleDisplay from './SingleDisplay';
 
 const About = () => (

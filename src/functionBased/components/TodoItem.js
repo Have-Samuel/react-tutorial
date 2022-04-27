@@ -18,12 +18,6 @@ const TodoItem = ({
     }
   };
 
-  // useEffect(() => {
-  //   return () => {
-  //     console.log('Cleaning up...');
-  //   };
-  // }, []);
-
   const completedStyle = {
     fontStyle: 'italic',
     color: '#595959',
